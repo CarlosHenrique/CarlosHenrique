@@ -1,18 +1,18 @@
 ## :man_technologist: Carlos Henrique de Souza 
 
-------
 
-##  print("Hello World!")
+
+## print("Hello World!")
 
 ## Seja bem vindo ao meu github, aqui estarei depositando projetos relacionados aos meus estudos e acompanhando meu desenvolvimento.
 
 ![Carlos Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHenrique&show_icons=true&theme=dracula)
 
-------
+
 
 ## :mega: Me encontre em:
 
-------
+
 
 ![Linkedin](https://img.shields.io/badge/Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![outlook](https://img.shields.io/badge/carlossouzap@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)![insta](https://img.shields.io/badge/ch__sp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -26,13 +26,11 @@
 
 
 
-------
+
 
 ## Linguagens mais utilizadas :heavy_plus_sign::man_technologist:
 
-------
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats)
-
-
 
