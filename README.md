@@ -26,9 +26,8 @@
 
 
 
-## Linguagens mais utilizadas ​ :man_technologist: :zap:
+## Linguagens mais utilizadas ​ :man_technologist: :zap::
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats) 
-
