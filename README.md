@@ -1,16 +1,16 @@
-#### :man_technologist: Carlos Henrique de Souza 
+## :man_technologist: Carlos Henrique de Souza 
 
 ------
 
-####  print("Hello World!")
+##  print("Hello World!")
 
-#### Seja bem vindo ao meu github, aqui estarei depositando projetos relacionados aos meus estudos e acompanhando meu desenvolvimento.
+## Seja bem vindo ao meu github, aqui estarei depositando projetos relacionados aos meus estudos e acompanhando meu desenvolvimento.
 
 ![Carlos Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHenrique&show_icons=true&theme=dracula)
 
 ------
 
-#### :mega: Me encontre em:
+## :mega: Me encontre em:
 
 ------
 
@@ -18,7 +18,7 @@
 
 ------
 
-#### Tecnologias que estou estudando :books: :man_student:
+## Tecnologias que estou estudando :books: :man_student:
 
 ------
 
@@ -28,9 +28,11 @@
 
 ------
 
-#### Linguagens mais utilizadas :heavy_plus_sign::man_technologist:
+## Linguagens mais utilizadas :heavy_plus_sign::man_technologist:
 
 ------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats)
+
+
 
