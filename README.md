@@ -14,7 +14,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target="blank")](https://www.linkedin.com/in/carlossouzap/https://www.linkedin.com/in/carlossouzap/)  [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlossouzap@outlook.com)  [![insta](https://img.shields.io/badge/ch__sp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch_sp/)   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chsp.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Carlos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&target=blank)](https://www.linkedin.com/in/carlossouzap/https://www.linkedin.com/in/carlossouzap/)  [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carlossouzap@outlook.com)  [![insta](https://img.shields.io/badge/ch__sp-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch_sp/)   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chsp.dev@gmail.com)
 
 ------
 
@@ -31,3 +31,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats) 
+
