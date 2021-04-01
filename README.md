@@ -6,6 +6,8 @@
 
 ## Seja bem vindo ao meu github, aqui estarei depositando projetos relacionados aos meus estudos e acompanhando meu desenvolvimento.
 
+![Carlos Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHenrique&show_icons=true&theme=dracula)
+
 
 
 ## Me encontre em :mega::
@@ -24,8 +26,8 @@
 
 
 
-## Github Status ​ :man_technologist: :zap:
+## Linguagens mais utilizadas ​ :man_technologist: :zap:
 
 
 
-![Carlos Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHenrique&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenrique&layout=compact&show_icons=true&theme=dracula)](https://github.com/CarlosHenrique/github-readme-stats) 
